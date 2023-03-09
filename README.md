@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## new components
+
+hygen new component --path <path> --name <comp name>
+use under scores for multiple names for component
+for example 
+hygen component new --path src/components/ --name hygen_comp
